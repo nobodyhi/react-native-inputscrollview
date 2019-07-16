@@ -2,7 +2,8 @@
  * Created by lvbingru on 12/16/15.
  */
 
-import React, {Component, PropTypes } from 'react';
+import React, {Component } from 'react';
+import PropTypes from 'prop-types';
 import ReactNative, {
     InteractionManager, View, Text, ScrollView, Platform, Animated, UIManager, NativeModules, Dimensions,
     Keyboard,
